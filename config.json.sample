@@ -1,6 +1,20 @@
 {
-  "slack_web_hook_url": "SLACK_WEB_HOOK",
+  "slack_web_hook_url": "https://hooks.slack.com/services/<your>/<slack>/<endpoint>",
+  "channels": {
+    "github_name": "#slack-channel",
+    "evalphobia": "#xxx-takuma"
+  },
   "account_map": {
-    "@github_name": "@slack_name"
-  }
+    "@github_name": "@slack_name",
+    "evalphobia": "takuma"
+  },
+  "icon_map": {
+    "github_name": ":baby:",
+    "evalphobia": [":walking:", ":dancer:", ":bell:"]
+  },
+  "icons": [
+    ":smile:",
+    ":v:",
+    ":pray:"
+  ]
 }

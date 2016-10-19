@@ -1,0 +1,47 @@
+{
+    "action": "created",
+    "comment": {
+        "user": {
+            "login": "evalphobia"
+        },
+        "body": "comment bodyです.",
+        "html_url": "https://github.com/_org_/github2slack-lambda/pull/2048#discussion_r73265488"
+    },
+    "pull_request": {
+        "html_url": "https://github.com/_org_/github2slack-lambda/pull/2048",
+        "state": "open",
+        "title": "PR Titleです",
+        "user": {
+            "login": "evalphobia",
+            "html_url": "https://github.com/evalphobia"
+        },
+        "body": "PR Bodyです.",
+        "assignee": {
+            "login": "testtest",
+            "html_url": "https://github.com/testtest"
+        },
+        "assignees": [
+            {
+                "login": "testtest"
+            }
+        ]
+    },
+    "repository": {
+        "id": 0123456,
+        "name": "github2slack-lambda",
+        "full_name": "_org_/github2slack-lambda",
+        "owner": {
+            "login": "_org_",
+            "html_url": "https://github.com/_org_"
+        },
+        "private": true,
+        "html_url": "https://github.com/_org_/github2slack-lambda"
+    },
+    "organization": {
+        "login": "_org_"
+    },
+    "sender": {
+        "login": "evalphobia",
+        "html_url": "https://github.com/evalphobia"
+    }
+}

@@ -4,9 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node jasmine-runner.js"
   },
-  "author": "Shogo Kawahara <kawahara@bucyou.net>",
+  "author": "evalphobia",
   "license": "MIT",
   "dependencies": {
     "request": "^2.69.0"
@@ -16,7 +16,17 @@
     "gulp": "^3.9.0",
     "gulp-install": "^0.6.0",
     "gulp-zip": "^3.1.0",
+    "jasmine": "^2.4.1",
+    "jasmine-core": "^2.4.1",
+    "jasmine-node": "^1.14.5",
+    "jasmine-spec-reporter": "^2.5.0",
+    "karma": "^1.1.2",
+    "karma-chrome-launcher": "^1.0.1",
+    "karma-jasmine": "^1.0.2",
+    "karma-requirejs": "^1.0.0",
     "node-aws-lambda": "^0.1.7",
+    "requirejs": "^2.2.0",
+    "rewire": "^2.5.2",
     "run-sequence": "^1.1.5"
   }
 }

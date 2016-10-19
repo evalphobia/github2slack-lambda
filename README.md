@@ -5,6 +5,9 @@ The lambda function to send GitHub event message to Slack.
 Forked from [kawahara/github2slack-lambda](https://github.com/kawahara/github2slack-lambda)  
 This version supports multi channels, custom icons and attachment message.  
 
+![description image](https://raw.github.com/wiki/evalphobia/github2slack-lambda/images/github-slack.png)
+
+
 See [original instruction](https://github.com/kawahara/github2slack-lambda).
 
 ## Setting
